@@ -1,0 +1,8 @@
+GET /index.html HTTP/1.1
+cache-control: no-cache
+Postman-Token: 31de2f35-28a7-4038-be30-6d96d22ff617
+User-Agent: PostmanRuntime/7.6.0
+Accept: */*
+Host: localhost:8080
+Connection: keep-alive
+accept-encoding: gzip, deflate
